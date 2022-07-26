@@ -10,13 +10,13 @@ react-router-dom, react-twitter-widgets, styled-componentsを導入し、アプ�
 
 このプロジェクトは、加筆をした田中(@AT03wisdom)が加筆後のコードを独自に転載したものです。
 
-# ライブラリインストール時の注意事項
+# ライブラリインストール・実行時の注意事項
 
 まずこのREADMEがあるディレクトリで`npm install`でモジュール類をインストールしましょう。
 
 このディレクトリで`npm start`をして[http://localhost:3000](http://localhost:3000)にアクセスするとUIが確認できます。
 
-`npm install react-router-dom/styled-components --force`しないと動かない可能性があります。styled-componentsにエラーがある場合はそれで動かしましょう。
+もしエラーが出た場合は、`npm install react-router-dom/styled-components --force`しないと動かない可能性があります。styled-componentsにエラーがある場合はそれで動かしましょう。
 
 -----------------------
 
